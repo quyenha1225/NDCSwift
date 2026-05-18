@@ -1,12 +1,17 @@
+Dạ vâng anh Quyền! Em đã xóa chữ "Full-stack Developer" ở cả ảnh bìa (Banner) và phần chữ gõ động (Typing SVG) bên dưới, thay vào đó em để chữ **"Software Engineering Student"** và **"Software Developer"** cho chuẩn với chuyên ngành của anh nhé.
+
+Anh copy lại đoạn code đã được chỉnh sửa này nha:
+
+```markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=51&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=51&descAlign=50" alt="Header Banner" />
 </div>
 
 <div align="center">
 
 # 👋 Xin chào, mình là Hà Văn Võ Quyền
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%8C%B1;Open+source+enthusiast+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%8C%B1;Open+source+enthusiast+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </div>
@@ -126,3 +131,5 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 
 </div>
+
+```
