@@ -2,27 +2,36 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Ha%20Van%20Vo%20Quyen&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Developer&descAlignY=52&descAlign=50" alt="Header Banner" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Garden+🌱;Software+Developer+in+the+making+🚀;AI+/+ML+Enthusiast+🤖;Arena+of+Valor+Carry+🎮" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img height="100em" src="https://media4.giphy.com/media/j45X2pC8Qo97wFfO75/giphy.gif" alt="Coding Cat GIF" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Garden+🌱;Software+Developer+in+the+making+🚀;AI+/+ML+Enthusiast+🤖;Arena+of+Valor+Master+⚔️; कैरी in Liên Quân 🎮" alt="Typing SVG" />
 </div>
 
 ---
 
+<div align="center">
+
+<img align="right" width="220" src="https://media4.giphy.com/media/j45X2pC8Qo97wFfO75/giphy.gif" alt="Coding Cat GIF" />
+
 ## 🚀 Quick Summary
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bongo Cat Typing" />
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Birthday-December%2025%2C%202005-informational?style=flat-square&logo=cake&logoColor=white&color=6366F1" />
   <img src="https://img.shields.io/badge/Hometown-Ha%20Tinh-success?style=flat-square&logo=homeadvisor&logoColor=white&color=22C55E" />
   <img src="https://img.shields.io/badge/Location-Hanoi-blue?style=flat-square&logo=googlemaps&logoColor=white&color=3B82F6" />
 </p>
 
+🔭 Hiện đang làm việc tại **Viettel Cyber Security**. <br>
+🌱 Đang học Kỹ thuật phần mềm tại **CMC University**. <br>
+🧠 Deep diving into **AI/ML Research** and system optimization. <br>
+🎮 Fun fact: Passionate coder and Master of Mid Lane in **Arena of Valor**. <br>
+📚 Favorite Quote: "Code is like humor. When you have to explain it, it's bad." 😄 <br>
+💡 **Crazy Goal:** Aiming to become a Viettel Cyber Security expert while achieving Conqueror rank in Liên Quân.
 
-- 💼 **Professional:** Currently contributing at **Viettel**.
-- 🧠 **Learning:** Deep diving into **AI/ML Research** and system optimization.
-- 🛠️ **Languages:** Proficient in **C#, C++, Java, Python**, and **JavaScript**.
-- 🎮 **Passions:** I love solving complex bugs and carrying my team in **Arena of Valor**.
+</div>
 
 <br clear="both">
 
@@ -63,15 +72,15 @@
 
 ## 📊 Analytics & Activity
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" />
+<div align="center">
+  <img height="180em" src="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-readme-stats-total.svg" alt="GitHub Contributions Stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-readme-stats-langs.svg" alt="Top Languages Stats" />
 </div>
 
-<br> -->
+<br>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Contributions Streak" />
 </div>
 
 ---
@@ -88,7 +97,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=quyenha1225&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
@@ -99,10 +108,10 @@
 ## 📬 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/[USERNAME_CỦA_ANH]">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="https://facebook.com/[USERNAME_CỦA_ANH]">
+  <a href="https://facebook.com/YOUR_FACEBOOK">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
   </a>
   <a href="mailto:quyenha419@gmail.com">
