@@ -10,6 +10,8 @@
 
 ## 🚀 Quick Summary
 
+<img align="right" width="220" src="https://user-images.githubusercontent.com/73097560/115834471-27365380-a42e-11eb-962f-1df2502ec7fa.gif" alt="Typing Cat GIF" />
+
 <p align="left">
   <img src="https://img.shields.io/badge/Birthday-December%2025%2C%202005-informational?style=flat-square&logo=cake&logoColor=white&color=6366F1" />
   <img src="https://img.shields.io/badge/Hometown-Ha%20Tinh-success?style=flat-square&logo=homeadvisor&logoColor=white&color=22C55E" />
@@ -22,35 +24,37 @@
 - 🛠️ **Languages:** Fluent in **C#, C++, Java, Python**, and **JavaScript**.
 - 🎮 **Passions:** I love solving complex bugs and carrying my team in **Arena of Valor**.
 
+<br clear="both">
+
 ---
 
 ## 🛠️ Tech Universe
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💻 Frontend</h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Backend</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🗄️ Database & Tools</h3>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br>
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<br>
+
+### 🗄️ Database & Tools
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 ---
 
@@ -60,6 +64,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" />
 </div>
+
+<br>
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" />
@@ -105,7 +111,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=quyenha1225&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views" />
-  <br>
+  <br><br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
   <br>
   <i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
