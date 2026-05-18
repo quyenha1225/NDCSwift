@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Location-Hanoi-blue?style=flat-square&logo=googlemaps&logoColor=white&color=3B82F6" />
 </p>
 
-- 🎓 **Education:** Pursuing Software Engineering at **CMC University**.
+
 - 💼 **Professional:** Currently contributing at **Viettel**.
 - 🧠 **Learning:** Deep diving into **AI/ML Research** and system optimization.
 - 🛠️ **Languages:** Proficient in **C#, C++, Java, Python**, and **JavaScript**.
@@ -63,12 +63,12 @@
 
 ## 📊 Analytics & Activity
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" />
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" />
