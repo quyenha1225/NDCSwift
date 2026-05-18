@@ -18,7 +18,7 @@
 
 ## 🚀 Quick Summary
 
-<img align="right" width="200" src="https://media4.giphy.com/media/j45X2pC8Qo97wFfO75/giphy.gif" alt="Coding Cat GIF" />
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="White Bongo Cat Typing" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Birthday-December%2025%2C%202005-informational?style=flat-square&logo=cake&logoColor=white&color=6366F1" />
@@ -72,10 +72,9 @@
 
 ## 📊 Analytics & Activity
 
-<br>
-
 <div align="center">
-  <img width="600" src="https://media4.giphy.com/media/j45X2pC8Qo97wFfO75/giphy.gif" alt="Large Coding Cat GIF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Total Contributions Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages Stats" />
 </div>
 
 ---
@@ -84,9 +83,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -95,7 +94,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quyenha1225&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=quyenha1225&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
