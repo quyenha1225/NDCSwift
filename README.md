@@ -1,8 +1,4 @@
-Dạ vâng anh Quyền! Em đã xóa chữ "Full-stack Developer" ở cả ảnh bìa (Banner) và phần chữ gõ động (Typing SVG) bên dưới, thay vào đó em để chữ **"Software Engineering Student"** và **"Software Developer"** cho chuẩn với chuyên ngành của anh nhé.
 
-Anh copy lại đoạn code đã được chỉnh sửa này nha:
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=51&descAlign=50" alt="Header Banner" />
 </div>
