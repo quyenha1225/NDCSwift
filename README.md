@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Ha%20Van%20Vo%20Quyen&height=300&color=linear-gradient(90deg, #1d3557, #1b2a4c, #1a1e3e, #131427, #0d0f19, #090a10, #06060a, #040406, #020203)&fontSize=70&desc=Software%20Engineering%20Student%20|%20Developer&descSize=30&animation=fadeIn&descAlignY=55&descAlign=50" alt="Ha Van Vo Quyen Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Ha%20Van%20Vo%20Quyen&height=300&color=linear-gradient(90deg,%20#1d3557,%20#1b2a4c,%20#1a1e3e,%20#131427,%20#0d0f19,%20#090a10,%20#06060a,%20#040406,%20#020203)&fontSize=70&desc=Software%20Engineering%20Student%20|%20Developer&descSize=30&animation=fadeIn&descAlignY=55&descAlign=50" alt="Ha Van Vo Quyen Banner" />
 </div>
 
 <br>
@@ -23,14 +23,14 @@
       <ul>
         <li>🔭 Currently working at Viettel Cyber Security.</li>
         <li>🌱 Studying Software Engineering at CMC University.</li>
-        <li>Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b></li>
-        <li>How to reach me: **[quyenha419@gmail.com](mailto:quyenha419@gmail.com)**</li>
-        <li>Based in: **Hanoi, Vietnam**</li>
-        <li>Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor.</li>
+        <li>💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b></li>
+        <li>📫 How to reach me: **[quyenha419@gmail.com](mailto:quyenha419@gmail.com)**</li>
+        <li>📍 Based in: **Hanoi, Vietnam**</li>
+        <li>⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor.</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=linear-gradient(180deg, #040507, #06090d, #080c13, #0a1019, #0c141f, #0e1826, #101c2c, #122033, #14243a, #162841)&height=300" alt="Gradient Blur Effect" />
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=linear-gradient(180deg,%20#040507,%20#06090d,%20#080c13,%20#0a1019,%20#0c141f,%20#0e1826,%20#101c2c,%20#122033,%20#14243a,%20#162841)&height=250" alt="Gradient Blur Effect" />
     </td>
   </tr>
 </table>
@@ -75,13 +75,8 @@
 ## 📊 Analytics & Activity
 
 <div align="center">
-  <img height="180em" src="https://capsule-render.vercel.app/api?type=soft&color=linear-gradient(180deg, #111111, #1e1e1e)&text=Total%20Contributions&desc=112&descSize=30&descAlignY=55&descAlign=50&descText=Jun%2011,%202025%20-%20Present&descFontSize=20&descAlign=50&height=180" alt="Total Contributions Stats" />
-  <img height="180em" src="https://capsule-render.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages Stats" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://capsule-render.vercel.app/api?type=soft&color=linear-gradient(180deg, #111111, #1e1e1e)&text=Current%20Streak&desc=3&descSize=30&descAlignY=55&descAlign=50&descText=May%2017%20-%20May%2019&descFontSize=20&descAlign=50&height=180" alt="Current Streak Badge" />
-  <img height="180em" src="https://capsule-render.vercel.app/api?type=soft&color=linear-gradient(180deg, #111111, #1e1e1e)&text=Longest%20Streak&desc=3&descSize=30&descAlignY=55&descAlign=50&descText=May%2017%20-%20May%2019&descFontSize=20&descAlign=50&height=180" alt="Longest Streak Badge" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Total Contributions Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages Stats" />
 </div>
 
 <br>
@@ -95,7 +90,11 @@
 ## 🐍 Snake Contribution
 
 <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -103,7 +102,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercelapp/?username=quyenha1225&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=quyenha1225&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
 </div>
 
 ---
