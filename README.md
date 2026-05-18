@@ -13,24 +13,16 @@
 
 ---
 
-<div align="center">
-
 ## 🙋 About ME
 
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Passionate+Coder+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;AI/ML+Research+%F0%9F%8C%90" alt="Typing SVG 2" />
-
-<p>
-  🔭 Currently working at <b>Viettel</b> <br>
-  🌱 Studying Software Engineering at <b>CMC University</b> <br>
-  💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b> <br>
-  📫 How to reach me: <b><a href="mailto:quyenha419@gmail.com">quyenha419@gmail.com</a></b> <br>
-  📍 Based in: <b>Hanoi, Vietnam 🇻🇳</b> <br>
-  ⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor 🎮
-</p>
-
-</div>
+- 🎂 **Date of Birth:** December 25, 2005
+- 🏡 **Hometown:** Ha Tinh, Vietnam
+- 📍 **Current Location:** Hanoi, Vietnam 🇻🇳
+- 🔭 **Current Position:** Working at **Viettel**
+- 🌱 **Education:** Studying Software Engineering at **CMC University**
+- 💬 **Ask me about:** C#, C++, Python, Java, SQL, HTML/CSS, Node.js
+- 📫 **How to reach me:** [quyenha419@gmail.com](mailto:quyenha419@gmail.com)
+- ⚡ **Fun fact:** Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor 🎮
 
 ---
 
