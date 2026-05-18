@@ -21,7 +21,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Passionate+Coder+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;AI/ML+Research+%F0%9F%8C%90" alt="Typing SVG 2" />
 
-<p align="center">
+<p align="">
   🔭 Currently working at <b>Viettel</b> <br>
   🌱 Studying Software Engineering at <b>CMC University</b> <br>
   💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b> <br>
