@@ -17,9 +17,7 @@
 
 ## 🙋 About ME
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Get%20to%20Know%20Me!&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50" alt="Get to Know Me Banner" />
 
-<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Passionate+Coder+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;AI/ML+Research+%F0%9F%8C%90" alt="Typing SVG 2" />
 
