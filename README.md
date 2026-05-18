@@ -13,25 +13,26 @@
 
 ---
 
+<div align="center">
+
 ## 🙋 About ME
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 Currently working at <b>Viettel</b></li>
-        <li>🌱 Studying Software Engineering at <b>CMC University</b></li>
-        <li>💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b></li>
-        <li>📫 How to reach me: <b><a href="mailto:quyenha419@gmail.com">quyenha419@gmail.com</a></b></li>
-        <li>📍 Based in: <b>Hanoi, Vietnam 🇻🇳</b></li>
-        <li>⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor 🎮</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avocode.gif" width="100%" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Get%20to%20Know%20Me!&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50" alt="Get to Know Me Banner" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Passionate+Coder+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;AI/ML+Research+%F0%9F%8C%90" alt="Typing SVG 2" />
+
+<p align="center">
+  🔭 Currently working at <b>Viettel</b> <br>
+  🌱 Studying Software Engineering at <b>CMC University</b> <br>
+  💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b> <br>
+  📫 How to reach me: <b><a href="mailto:quyenha419@gmail.com">quyenha419@gmail.com</a></b> <br>
+  📍 Based in: <b>Hanoi, Vietnam 🇻🇳</b> <br>
+  ⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor 🎮
+</p>
+
+</div>
 
 ---
 
