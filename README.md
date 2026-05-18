@@ -1,132 +1,239 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Ha%20Van%20Vo%20Quyen&height=300&color=linear-gradient(90deg,%20#1d3557,%20#1b2a4c,%20#1a1e3e,%20#131427,%20#0d0f19,%20#090a10,%20#06060a,%20#040406,%20#020203)&fontSize=70&desc=Software%20Engineering%20Student%20|%20Developer&descSize=30&animation=fadeIn&descAlignY=55&descAlign=50" alt="Ha Van Vo Quyen Banner" />
+sao cái j v <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Ha%20Van%20Vo%20Quyen&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Developer&descAlignY=52&descAlign=50" alt="Header Banner" />
+
 </div>
+
+
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software%20Developer%20in%20the%20making%20%F0%9F%9A%80;Always%20learning%20new%20things%20%F0%9F%8C%B1;AI%20/%20ML%20Enthusiast%20%F0%9F%A4%96;carry%20in%20Liên%20Quân%20%F0%9F%8E%AE" alt="Typing SVG" />
-</div>
 
----
 
 <div align="center">
 
-<img align="right" width="200" src="https://media4.giphy.com/media/j45X2pC8Qo97wFfO75/giphy.gif" alt="Bongo Cat Typing" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/rocket.gif" width="30px">
 
-## 🚀 About ME
+   <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=50&text=Welcome%20to%20my%20Digital%20Garden&fontSize=24&fontAlign=center&fontAlignY=50&animation=fadeIn" alt="Sub Title" />
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 Currently working at Viettel Cyber Security.</li>
-        <li>🌱 Studying Software Engineering at CMC University.</li>
-        <li>💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b></li>
-        <li>📫 How to reach me: **[quyenha419@gmail.com](mailto:quyenha419@gmail.com)**</li>
-        <li>📍 Based in: **Hanoi, Vietnam**</li>
-        <li>⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=linear-gradient(180deg,%20#040507,%20#06090d,%20#080c13,%20#0a1019,%20#0c141f,%20#0e1826,%20#101c2c,%20#122033,%20#14243a,%20#162841)&height=250" alt="Gradient Blur Effect" />
-    </td>
-  </tr>
-</table>
+   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 </div>
 
+
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer+in+the+making+🚀;Always+learning+new+things+🌱;AI+/+ML+Enthusiast+🤖;Arena+of+Valor+Carry+🎮" alt="Typing SVG" />
+
+</div>
+
+
+
 ---
+
+
+
+## 🚀 Quick Summary
+
+
+
+<img align="right" width="200" src="https://media4.giphy.com/media/j45X2pC8Qo97wFfO75/giphy.gif" alt="Coding Cat GIF" />
+
+
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Birthday-December%2025%2C%202005-informational?style=flat-square&logo=cake&logoColor=white&color=6366F1" />
+
+  <img src="https://img.shields.io/badge/Hometown-Ha%20Tinh-success?style=flat-square&logo=homeadvisor&logoColor=white&color=22C55E" />
+
+  <img src="https://img.shields.io/badge/Location-Hanoi-blue?style=flat-square&logo=googlemaps&logoColor=white&color=3B82F6" />
+
+</p>
+
+
+
+- 🌱 Hiện đang làm việc tại Viettel Cyber Security. <br>
+
+- 🔭 Đang học Kỹ thuật phần mềm tại CMC University. <br>
+
+- 💬 Ask me about: **C#, C++, Python, Java, SQL, HTML/CSS, Node.js** <br>
+
+- 📫 How to reach me: **<a href="mailto:quyenha419@gmail.com">quyenha419@gmail.com</a>** <br>
+
+- 🎮 Fun fact: Passionate coder and Master of Mid Lane in **Arena of Valor**. <br>
+
+- 💡 Crazy Goal: Aiming to become a Viettel Cyber Security expert while achieving Conqueror rank in Liên Quân.
+
+
+
+<br clear="both">
+
+
+
+---
+
+
 
 ## 🛠️ Tech Universe
 
+
+
 <div align="center">
 
+
+
 ### 💻 Frontend
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+
+
 <br>
+
+
 
 ### ⚙️ Backend & Database
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
 <br>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
+
+
 <br>
 
+
+
 ### 🗄️ Tools & Environment
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+
 
 </div>
 
+
+
 ---
+
+
 
 ## 📊 Analytics & Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Total Contributions Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages Stats" />
-</div>
+
 
 <br>
 
+
+
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" alt="Streak Stats Long" />
+
+  <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" alt="Streak Stats" />
+
 </div>
+
+
 
 ---
 
-## 🐍 Snake Contribution
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quyenha1225&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</div>
-
----
 
 ## 📬 Let's Connect!
 
+
+
 <div align="center">
-  <a href="https://linkedin.com/in/[USERNAME]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/[USERNAME]">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:quyenha419@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+  <table align="center">
+
+    <tr>
+
+      <td align="center">
+
+        <a href="https://github.com/quyenha1225">
+
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+        </a>
+
+      </td>
+
+      <td align="center">
+
+        <a href="https://linkedin.com/in/[USERNAME_CỦA_ANH]">
+
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+
+        </a>
+
+      </td>
+
+      <td align="center">
+
+        <a href="https://facebook.com/[USERNAME_CỦA_ANH]">
+
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
+
+        </a>
+
+      </td>
+
+      <td align="center">
+
+        <a href="mailto:quyenha419@gmail.com">
+
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+
+        </a>
+
+      </td>
+
+    </tr>
+
+  </table>
+
 </div>
+
+
 
 <br>
 
+
+
 <div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=quyenha1225&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views count" />
+
   <br><br>
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+
   <br>
+
   <i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
-</div>
+
+</div> sửa lại cho tôi ngay thay cái kia thành hình con mèo đi 
