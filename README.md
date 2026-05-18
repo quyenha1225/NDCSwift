@@ -1,11 +1,10 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=51&descAlign=50" alt="Header Banner" />
 </div>
 
 <div align="center">
 
-# 👋 Xin chào, mình là Hà Văn Võ Quyền
+# 👋 Hello, I'm Ha Van Vo Quyen
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%8C%B1;Open+source+enthusiast+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
@@ -20,12 +19,12 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 Hiện đang làm việc tại <b>Viettel</b></li>
-        <li>🌱 Đang học Kỹ thuật phần mềm tại <b>CMC University</b></li>
-        <li>💬 Hỏi mình về: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b></li>
-        <li>📫 Liên hệ qua Email: <b><a href="mailto:quyenha419@gmail.com">quyenha419@gmail.com</a></b></li>
-        <li>📍 Đang sống tại: <b>Hà Nội, Việt Nam 🇻🇳</b></li>
-        <li>⚡ Fun fact: Vừa code hăng say, đam mê nghiên cứu AI/ML vừa thích vọc vạch hệ thống, lúc rảnh thì gánh tạ Liên Quân 🎮</li>
+        <li>🔭 Currently working at <b>Viettel</b></li>
+        <li>🌱 Studying Software Engineering at <b>CMC University</b></li>
+        <li>💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b></li>
+        <li>📫 How to reach me: <b><a href="mailto:quyenha419@gmail.com">quyenha419@gmail.com</a></b></li>
+        <li>📍 Based in: <b>Hanoi, Vietnam 🇻🇳</b></li>
+        <li>⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor 🎮</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -104,7 +103,7 @@
 
 ---
 
-## 📬 Kết nối với mình
+## 📬 Connect with me
 
 <div align="center">
 
@@ -127,5 +126,3 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 
 </div>
-
-```
