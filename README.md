@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, mình là [TÊN CỦA BẠN]
+# 👋 Xin chào, mình là Hà Văn Võ Quyền
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%8C%B1;Open+source+enthusiast+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
@@ -10,12 +10,12 @@
 
 ## 🙋 Về mình
 
-- 🔭 Hiện đang làm việc tại **[TÊN CÔNG TY / DỰ ÁN]**
-- 🌱 Đang học **[CÔNG NGHỆ ĐANG HỌC]**
-- 💬 Hỏi mình về **[THẾ MẠNH CỦA BẠN]**
-- 📫 Liên hệ: **[EMAIL CỦA BẠN]**
-- 📍 **Hồ Chí Minh, Việt Nam** 🇻🇳
-- ⚡ Fun fact: **[MỘT ĐIỀU THÚ VỊ VỀ BẠN]**
+- 🔭 Hiện đang làm việc tại **[Viettel]**
+- 🌱 Đang học **[CÔNG NGHỆ THÔNG TIN TẠI CMC UNIVERSITY]**
+- 💬 Hỏi mình về **[C#,C++,PYTHON,CSHARP,SQP,JAVA,HTMLL,CSS,NODE.JS]**
+- 📫 Liên hệ: **[quyenha419@gmail.com]**
+- 📍 **HaNoi, Việt Nam** 🇻🇳
+- ⚡ Fun fact: **[Đam mê lập trình và có kinh nghiệm ]**
 
 ---
 
