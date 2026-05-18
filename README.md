@@ -8,11 +8,9 @@
 
 ---
 
-<div align="center">
-
-<img align="right" width="220" src="https://media4.giphy.com/media/j45X2pC8Qo97wFfO75/giphy.gif" alt="Typing Cat GIF" />
-
 ## 🚀 Quick Summary
+
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bongo Cat Typing" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Birthday-December%2025%2C%202005-informational?style=flat-square&logo=cake&logoColor=white&color=6366F1" />
@@ -25,8 +23,6 @@
 - 🧠 **Learning:** Deep diving into **AI/ML Research** and system optimization.
 - 🛠️ **Languages:** Proficient in **C#, C++, Java, Python**, and **JavaScript**.
 - 🎮 **Passions:** I love solving complex bugs and carrying my team in **Arena of Valor**.
-
-</div>
 
 <br clear="both">
 
@@ -68,14 +64,14 @@
 ## 📊 Analytics & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Contributions Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Contributions Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" />
 </div>
 
 ---
