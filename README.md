@@ -1,120 +1,135 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Ha%20Van%20Vo%20Quyen&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Developer&descAlignY=52&descAlign=50" alt="Header Banner" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Garden+🌱;Software+Developer+in+the+making+🚀;AI+/+ML+Enthusiast+🤖;Arena+of+Valor+Carry+🎮" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=300&section=header&text=✈️%20Ha%20Van%20Vo%20Quyen%20🚀&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20AI%20Developer%20|%20CyberSecurity%20Enthusiast&descAlignY=55&descAlign=50" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe+🌌;Software+Developer+in+Progress+🚀;AI+%2F+ML+Explorer+🤖;Cyber+Security+Future+Specialist+🛡️;Arena+of+Valor+Carry+🎮" />
+
 </div>
 
 ---
 
-## 🚀 Quick Summary
+# 🚀 About Me
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bongo Cat Typing" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Birthday-December%2025%2C%202005-informational?style=flat-square&logo=cake&logoColor=white&color=6366F1" />
-  <img src="https://img.shields.io/badge/Hometown-Ha%20Tinh-success?style=flat-square&logo=homeadvisor&logoColor=white&color=22C55E" />
-  <img src="https://img.shields.io/badge/Location-Hanoi-blue?style=flat-square&logo=googlemaps&logoColor=white&color=3B82F6" />
-</p>
+- 🎓 Software Engineering Student
+- 💼 Passionate about AI/ML & Cyber Security
+- 🧠 Currently learning Backend Optimization & System Design
+- ⚡ Love building clean UI and solving hard bugs
+- 🎮 Arena of Valor enjoyer
+- 🌌 Goal: Become a Cyber Security Expert at Viettel
 
-
-- 💼 **Professional:** Currently contributing at **Viettel**.
-- 🧠 **Learning:** Deep diving into **AI/ML Research** and system optimization.
-- 🛠️ **Languages:** Proficient in **C#, C++, Java, Python**, and **JavaScript**.
-- 🎮 **Passions:** I love solving complex bugs and carrying my team in **Arena of Valor**.
-- 📚 Favorite Quote: "Code is like humor. When you have to explain it, it's bad." 😄 <br>
--💡 **Crazy Goal:** Aiming to become a Viettel Cyber Security expert while achieving Conqueror rank in Liên Quân.
+> "Code is like humor. When you have to explain it, it's bad." 😄
 
 <br clear="both">
 
 ---
 
-## 🛠️ Tech Universe
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+## 💻 Frontend
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### ⚙️ Backend & Database
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<br><br>
 
-<br>
+## ⚙️ Backend & Database
 
-### 🗄️ Tools & Environment
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,cs,python,nodejs,mysql,mongodb" />
+
+<br><br>
+
+## 🧰 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,github" />
 
 </div>
 
 ---
 
-## 📊 Analytics & Activity
-
-
-<br>
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" />
-</div>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&border_radius=10" />
 
-## 🐍 Snake Contribution
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quyenha1225&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/[USERNAME_CỦA_ANH]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://facebook.com/[USERNAME_CỦA_ANH]">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
-  </a>
-  <a href="mailto:quyenha419@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
-  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=quyenha1225&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views count" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-  <br>
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
+
+<img width="100%" src="https://streak-stats.demolab.com?user=quyenha1225&theme=tokyonight&hide_border=false&border_radius=10" />
+
 </div>
-làm một cái hình máy bay hay vũ trụ gì đó cạnh tên ha van vo quyen để nó thêm sống động mà ko bị chán thứ hai thêm vào social vào nữa cho đpẹ
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=quyenha1225&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/quyenha1225">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/USERNAME_FACEBOOK">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:quyenha419@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=quyenha1225&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### 🌌 Thanks for visiting my profile 🚀
+
+</div>
+```
