@@ -12,18 +12,32 @@
 </div>
 
 ---
-<div align="center">
 
 ## 🙋 About ME
 
-🔭 Currently working at **Viettel** <br>
-🌱 Studying Software Engineering at **CMC University** <br>
-💬 Ask me about: **C#, C++, Python, Java, SQL, HTML/CSS, Node.js** <br>
-📫 How to reach me: **[quyenha419@gmail.com](mailto:quyenha419@gmail.com)** <br>
-📍 Based in: **Hanoi, Vietnam 🇻🇳** <br>
-⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor 🎮
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 Currently working at <b>Viettel</b></li>
+        <li>🌱 Studying Software Engineering at <b>CMC University</b></li>
+        <li>💬 Ask me about: <b>C#, C++, Python, Java, SQL, HTML/CSS, Node.js</b></li>
+        <li>📫 How to reach me: <b><a href="mailto:quyenha419@gmail.com">quyenha419@gmail.com</a></b></li>
+        <li>📍 Based in: <b>Hanoi, Vietnam 🇻🇳</b></li>
+        <li>⚡ Fun fact: Passionate about coding and AI/ML research, love tinkering with systems, and in my free time, I'm carrying my team in Arena of Valor 🎮</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avocode.gif" width="100%" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
