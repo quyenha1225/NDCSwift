@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋 Về mình
+## 🙋 About ME
 
 <table>
   <tr>
