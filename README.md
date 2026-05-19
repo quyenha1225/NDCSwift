@@ -51,7 +51,7 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&border_radius=10" />
 
@@ -59,7 +59,7 @@
 
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
 
